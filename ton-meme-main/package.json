@@ -1,0 +1,39 @@
+{
+  "name": "ton-meme",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.2.10",
+    "@studio-freight/react-lenis": "^0.0.46",
+    "@vercel/speed-insights": "^1.0.10",
+    "framer-motion": "^11.0.24",
+    "lodash": "^4.17.21",
+    "next": "14.1.4",
+    "npm": "^10.5.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-fast-marquee": "^1.6.4",
+    "sharp": "^0.33.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-tailwindcss": "^3.15.1",
+    "postcss": "^8",
+    "prettier-plugin-organize-imports": "^3.2.4",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
